@@ -1,0 +1,5 @@
+node_modules/
+healthcare.sqlite
+healthcare.sqlite-shm
+healthcare.sqlite-wal
+.env
